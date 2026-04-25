@@ -1,7 +1,7 @@
 
 # 🚀 Hi, I'm Billy Tadouanla Guetchuin
 Embedded Software Engineer | DSP & Digital Design Enthusiast Currently pursuing Sustainability 
-Engineering at HochSchuile Rhen-Waal.
+Engineering at HochSchule Rhen-Waal.
 
 I specialize in the intersection of hardware and software, focusing on resource-efficient 
 firmware and digital logic. My goal is to leverage microprocessor implementation and
